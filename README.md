@@ -2,8 +2,6 @@
 
 ### AI Agent Developer | Building LLM-powered systems with memory, tools, and data
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Thxnks&label=Profile views&color=0e75b6&style=flat" alt="Thxnks" /> </p>
-
 - 🔭 I'm currently working on **Building LLM-powered agents with tool calling, long-term memory, RAG, and natural language data interaction.**
 
 - 🌱 I'm currently learning **LLM agent architecture, RAG evaluation, data-centric AI, deep learning, and LLM-database integration.**
