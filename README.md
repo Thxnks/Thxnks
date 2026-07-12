@@ -1,16 +1,101 @@
-## Hi there 👋
-
-<!--
-**Thxnks/Thxnks** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+{
+  "version": "1.0.0",
+  "exportedAt": "2026-07-12T14:01:28.739Z",
+  "profile": {
+    "title": "Xinran Hao",
+    "subtitle": "AI Agent Developer | Building LLM-powered systems with memory, tools, and data",
+    "currentWork": "Building LLM-powered agents with tool calling, long-term memory, RAG, and natural language data interaction.",
+    "currentLearn": "LLM agent architecture, RAG evaluation, data-centric AI, deep learning, and LLM-database integration.",
+    "collaborateOn": "Open-source projects involving AI agents, RAG, memory systems, and intelligent data applications.",
+    "helpWith": "Designing reliable agent workflows, evaluating RAG systems, and building scalable long-term memory.",
+    "ama": "AI agents, RAG, tool calling, memory systems, NL2SQL, and LLM application development.",
+    "contact": "thxnks97@gmail.com",
+    "funFact": "Rogue Star",
+    "visitorsBadge": true,
+    "badgeStyle": "flat",
+    "badgeColor": "0e75b6",
+    "badgeLabel": "Profile views",
+    "githubProfileTrophy": false,
+    "githubStats": false,
+    "githubStatsOptions": {
+      "theme": "",
+      "titleColor": "",
+      "textColor": "",
+      "bgColor": "",
+      "hideBorder": false,
+      "cacheSeconds": null,
+      "locale": "en"
+    },
+    "topLanguages": false,
+    "topLanguagesOptions": {
+      "theme": "",
+      "titleColor": "",
+      "textColor": "",
+      "bgColor": "",
+      "hideBorder": false,
+      "cacheSeconds": null,
+      "locale": "en"
+    },
+    "streakStats": false,
+    "streakStatsOptions": {
+      "theme": ""
+    },
+    "devDynamicBlogs": false,
+    "mediumDynamicBlogs": false,
+    "rssDynamicBlogs": false
+  },
+  "links": {
+    "currentWork": "",
+    "collaborateOn": "",
+    "helpWith": "",
+    "portfolio": "https://personal-home-seven.vercel.app/",
+    "blog": "",
+    "resume": ""
+  },
+  "social": {
+    "github": "Thxnks",
+    "dev": "",
+    "linkedin": "",
+    "codepen": "",
+    "stackoverflow": "",
+    "kaggle": "",
+    "codesandbox": "",
+    "fb": "",
+    "instagram": "",
+    "twitter": "",
+    "dribbble": "",
+    "behance": "",
+    "medium": "",
+    "youtube": "",
+    "codechef": "",
+    "hackerrank": "",
+    "codeforces": "",
+    "leetcode": "",
+    "topcoder": "",
+    "hackerearth": "",
+    "geeks_for_geeks": "",
+    "discord": "",
+    "rssurl": "",
+    "twitterBadge": false
+  },
+  "support": {
+    "buyMeACoffee": ""
+  },
+  "skills": [
+    "cplusplus",
+    "django",
+    "fastapi",
+    "flask",
+    "go",
+    "hadoop",
+    "kafka",
+    "langchain",
+    "linux",
+    "mariadb",
+    "mysql",
+    "oracle",
+    "postgresql",
+    "python",
+    "rabbitMQ"
+  ]
+}
