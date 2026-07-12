@@ -1,101 +1,30 @@
-{
-  "version": "1.0.0",
-  "exportedAt": "2026-07-12T14:01:28.739Z",
-  "profile": {
-    "title": "Xinran Hao",
-    "subtitle": "AI Agent Developer | Building LLM-powered systems with memory, tools, and data",
-    "currentWork": "Building LLM-powered agents with tool calling, long-term memory, RAG, and natural language data interaction.",
-    "currentLearn": "LLM agent architecture, RAG evaluation, data-centric AI, deep learning, and LLM-database integration.",
-    "collaborateOn": "Open-source projects involving AI agents, RAG, memory systems, and intelligent data applications.",
-    "helpWith": "Designing reliable agent workflows, evaluating RAG systems, and building scalable long-term memory.",
-    "ama": "AI agents, RAG, tool calling, memory systems, NL2SQL, and LLM application development.",
-    "contact": "thxnks97@gmail.com",
-    "funFact": "Rogue Star",
-    "visitorsBadge": true,
-    "badgeStyle": "flat",
-    "badgeColor": "0e75b6",
-    "badgeLabel": "Profile views",
-    "githubProfileTrophy": false,
-    "githubStats": false,
-    "githubStatsOptions": {
-      "theme": "",
-      "titleColor": "",
-      "textColor": "",
-      "bgColor": "",
-      "hideBorder": false,
-      "cacheSeconds": null,
-      "locale": "en"
-    },
-    "topLanguages": false,
-    "topLanguagesOptions": {
-      "theme": "",
-      "titleColor": "",
-      "textColor": "",
-      "bgColor": "",
-      "hideBorder": false,
-      "cacheSeconds": null,
-      "locale": "en"
-    },
-    "streakStats": false,
-    "streakStatsOptions": {
-      "theme": ""
-    },
-    "devDynamicBlogs": false,
-    "mediumDynamicBlogs": false,
-    "rssDynamicBlogs": false
-  },
-  "links": {
-    "currentWork": "",
-    "collaborateOn": "",
-    "helpWith": "",
-    "portfolio": "https://personal-home-seven.vercel.app/",
-    "blog": "",
-    "resume": ""
-  },
-  "social": {
-    "github": "Thxnks",
-    "dev": "",
-    "linkedin": "",
-    "codepen": "",
-    "stackoverflow": "",
-    "kaggle": "",
-    "codesandbox": "",
-    "fb": "",
-    "instagram": "",
-    "twitter": "",
-    "dribbble": "",
-    "behance": "",
-    "medium": "",
-    "youtube": "",
-    "codechef": "",
-    "hackerrank": "",
-    "codeforces": "",
-    "leetcode": "",
-    "topcoder": "",
-    "hackerearth": "",
-    "geeks_for_geeks": "",
-    "discord": "",
-    "rssurl": "",
-    "twitterBadge": false
-  },
-  "support": {
-    "buyMeACoffee": ""
-  },
-  "skills": [
-    "cplusplus",
-    "django",
-    "fastapi",
-    "flask",
-    "go",
-    "hadoop",
-    "kafka",
-    "langchain",
-    "linux",
-    "mariadb",
-    "mysql",
-    "oracle",
-    "postgresql",
-    "python",
-    "rabbitMQ"
-  ]
-}
+# Hi 👋, I'm Xinran Hao
+
+### AI Agent Developer | Building LLM-powered systems with memory, tools, and data
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Thxnks&label=Profile views&color=0e75b6&style=flat" alt="Thxnks" /> </p>
+
+- 🔭 I'm currently working on **Building LLM-powered agents with tool calling, long-term memory, RAG, and natural language data interaction.**
+
+- 🌱 I'm currently learning **LLM agent architecture, RAG evaluation, data-centric AI, deep learning, and LLM-database integration.**
+
+- 👯 I'm looking to collaborate on **Open-source projects involving AI agents, RAG, memory systems, and intelligent data applications.**
+
+- 🤝 I'm looking for help with **Designing reliable agent workflows, evaluating RAG systems, and building scalable long-term memory.**
+
+- 💬 Ask me about **AI agents, RAG, tool calling, memory systems, NL2SQL, and LLM application development.**
+
+- 📫 How to reach me **thxnks97@gmail.com**
+
+- ⚡ Fun fact **Rogue Star**
+
+- 👨‍💻 All of my projects are available at **[https://personal-home-seven.vercel.app/](https://personal-home-seven.vercel.app/)**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://github.com/Thxnks" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="Thxnks" height="30" width="40" /></a>
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://developer.mozilla.org/en-US/docs/Web/cplusplus" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=cpp" alt="cplusplus" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/django" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=django" alt="django" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/fastapi" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=fastapi" alt="fastapi" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/flask" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=flask" alt="flask" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/go" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=go" alt="go" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/hadoop" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/hadoop/hadoop-original.svg" alt="hadoop" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/kafka" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=kafka" alt="kafka" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/langchain" target="_blank" rel="noreferrer"> <img src="https://cdn.simpleicons.org/langchain/1C3C3C" alt="langchain" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/linux" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=linux" alt="linux" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/mariadb" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" alt="mariadb" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/mysql" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=mysql" alt="mysql" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/oracle" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/postgresql" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=postgres" alt="postgresql" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/python" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=py" alt="python" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/rabbitMQ" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=rabbitmq" alt="rabbitMQ" width="40" height="40"/> </a></p>
+
