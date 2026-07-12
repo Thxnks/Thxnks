@@ -1,5 +1,4 @@
-# Hi 👋, I'm Xinran Hao
-
+![Hi, I'm Xinran Hao.](https://readme-typing-svg.herokuapp.com?font=Cascadia+Code&weight=700&size=26&pause=100000&color=58A6FF&background=00000000&width=430&height=45&lines=Hi%2C+I%27m+Xinran+Hao.)
 ### AI Agent Developer | Building LLM-powered systems with memory, tools, and data
 
 - 🔭 I'm currently working on **Building LLM-powered agents with tool calling, long-term memory, RAG, and natural language data interaction.**
