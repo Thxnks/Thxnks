@@ -1,13 +1,12 @@
 ![Hi, I'm Xinran Hao.](https://readme-typing-svg.herokuapp.com?font=Cascadia+Code&weight=700&size=30&pause=100000&color=58A6FF&background=00000000&width=500&height=55&lines=Hi%2C+I%27m+Xinran+Hao.)
 
-## <samp>AI Agent Developer | Building LLM-powered systems with memory, tools, and data</samp>
+## <samp>AI Agent Developer | Building LLM-powered systems</samp>
 
-- 🔭 <samp>I'm currently working on **Building Data agents.**</samp>
+- <samp>I'm currently working on **Building Data agents.**</samp>
 
+- <samp>How to reach me: [thxnks97@gmail.com](mailto:thxnks97@gmail.com)</samp>
 
-- 📫 <samp>How to reach me: [thxnks97@gmail.com](mailto:thxnks97@gmail.com)</samp>
-
-- 🧑‍💻 <samp>All of my projects are available at [personal-home-seven.vercel.app](https://personal-home-seven.vercel.app/)</samp>
+- <samp>All of my projects are available at [tomohisa.vercel.app](https://tomohisa.vercel.app/)</samp>
 
 ## <samp>Connect with me:</samp>
 <p align="left">
