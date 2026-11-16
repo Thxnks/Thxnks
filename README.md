@@ -6,7 +6,7 @@
 
 - <samp>How to reach me: [thxnks97@gmail.com](mailto:thxnks97@gmail.com)</samp>
 
-- <samp>All of my projects are available at [tomohisa.vercel.app](https://tomohisa.life)</samp>
+- <samp>All of my projects are available at [tomohisa.life](https://tomohisa.life)</samp>
 
 ## <samp>Connect with me:</samp>
 <p align="left">
